@@ -11,12 +11,42 @@
       <script type="text/javascript">
 
       var map;
-      function initMap() {
-        map = new google.maps.Map(document.getElementById('map'), {
-          center: {lat: -34.397, lng: 150.644},
-          zoom: 8
-        });
-      }
+        function initMap() {
+          var featureOpts = [
+            {
+              featureType: "all",
+              elementType: "labels",
+              stylers: [
+                { visibility: "off" }
+              ]
+            }
+          ]
+          map = new google.maps.Map(document.getElementById('map'), {
+            center: {lat: 42.2814, lng: -83.7483},
+            zoom: 14,
+            disableDefaultUI: true,
+            maxZoom: 20,
+            minZoom: 13
+          });
+          var imageBounds = {
+            north: 42.29353,
+            south: 42.29182,
+            east: -83.713641,
+            west: -83.716611
+          };
+          var styledMapOptions = {
+            name: 'Custom Style'
+          };
+
+          var customMapType = new google.maps.StyledMapType(featureOpts, styledMapOptions);
+
+          map.mapTypes.set('custom_style', customMapType);
+          
+          Overlay = new google.maps.GroundOverlay(
+            'images/grand_map.png',
+            imageBounds);
+          Overlay.setMap(map);
+        }
 
       </script>
         <script async defer
