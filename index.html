@@ -47,12 +47,14 @@
         }
 
         var allowedBounds = new google.maps.LatLngBounds(
-          new google.maps.LatLng(42.2814, -83.7483), 
-          new google.maps.LatLng(42.27969, -83.74533)
+          new google.maps.LatLng(42.293544, -83.711725), 
+          new google.maps.LatLng(42.290469, -83.719300)
         );
+
         var lastValidCenter = map.getCenter();
 
-        google.maps.event.addListener(map, 'center_changed', function() {
+        google.maps.event.addListener(map, 'center_changed',
+         function() {
           if (allowedBounds.contains(map.getCenter())) {
             // still within valid bounds, so save the last valid position
             lastValidCenter = map.getCenter();
