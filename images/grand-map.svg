@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1388px" height="1076px" viewBox="0 0 1388 1076" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>grand-map-png</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="EECS" sketch:type="MSLayerGroup" transform="translate(661.000000, 357.000000)">
+            <g id="final-outline" transform="translate(146.000000, 20.000000)" stroke="#555544" stroke-width="2" sketch:type="MSShapeGroup">
+                <path d="M283,197.653774 C283,197.653774 313.63504,177.765459 346.438874,189.951765 C379.242708,202.138071 387,225.963389 387,225.963389 L386.999997,238" id="Line" stroke-linecap="square"></path>
+                <path d="M387,239 L395,239" id="Line" stroke-linecap="square"></path>
+                <path d="M395,235 L395,239" id="Line" stroke-linecap="square"></path>
+                <path d="M395,235 L479,235" id="Line" stroke-linecap="square"></path>
+                <path d="M480,238 L480,235" id="Line" stroke-linecap="square"></path>
+                <path d="M480,238 L489,238" id="Line" stroke-linecap="square"></path>
+                <path d="M489,231 L489,238" id="Line" stroke-linecap="square"></path>
+                <path d="M489,231 L503,231" id="Line" stroke-linecap="square"></path>
+                <path d="M503,238 L503,231" id="Line" stroke-linecap="square"></path>
+                <path d="M503,238 L508.000685,238" id="Line" stroke-linecap="square"></path>
+                <path d="M508.000685,245 L508.000685,238" id="Line" stroke-linecap="square"></path>
+                <path d="M508.000685,245 L526.110775,245" id="Line" stroke-linecap="square"></path>
+                <path d="M526.110775,248.129013 L526.110775,245" id="Line" stroke-linecap="square"></path>
+                <path d="M526,272 L526,269" id="Line" stroke-linecap="square"></path>
+                <path d="M526,272 L508,272" id="Line" stroke-linecap="square"></path>
+                <path d="M36,246 L36,240" id="Line" stroke-linecap="square"></path>
+                <path d="M36,246 L36,230" id="Line" stroke-linecap="square"></path>
+                <path d="M66,230 L36,230" id="Line" stroke-linecap="square"></path>
+                <path d="M66,230 L66,51" id="Line" stroke-linecap="square"></path>
+                <path d="M164,69 L164,51" id="Line" stroke-linecap="square"></path>
+                <path d="M163,104 L220,104" id="Line" stroke-linecap="square"></path>
+                <path d="M36,243 L17.9722436,243" id="Line" stroke-linecap="square"></path>
+                <path d="M17.9722437,247.000096 L17.9722436,243" id="Line" stroke-linecap="square"></path>
+                <path d="M17.9722437,273.000096 L17.9722436,269" id="Line" stroke-linecap="square"></path>
+                <path d="M17.9722437,273.000096 L36,273.000096" id="Line" stroke-linecap="square"></path>
+                <path d="M68,230 L68,236" id="Line" stroke-linecap="square"></path>
+                <path d="M72,237 L68,237" id="Line" stroke-linecap="square"></path>
+                <path d="M73,237 L73,230" id="Line" stroke-linecap="square"></path>
+                <path d="M51,652 L51,496" id="Line" stroke-linecap="square"></path>
+                <path d="M72,495 L51,495" id="Line" stroke-linecap="square"></path>
+                <path d="M72,495 L72,497" id="Line" stroke-linecap="square"></path>
+                <path d="M129,498 L72,498" id="Line" stroke-linecap="square"></path>
+                <path d="M129,498 L129,495" id="Line" stroke-linecap="square"></path>
+                <path d="M130,481 L130,478" id="Line" stroke-linecap="square"></path>
+                <path d="M130,482 L132,482" id="Line" stroke-linecap="square"></path>
+                <path d="M130,478 L132,478" id="Line" stroke-linecap="square"></path>
+                <path d="M130,468 L133,468" id="Line" stroke-linecap="square"></path>
+                <path d="M130,464 L132,464" id="Line" stroke-linecap="square"></path>
+                <path d="M130,464 L130,467" id="Line" stroke-linecap="square"></path>
+                <path d="M133,495 L129,495" id="Line" stroke-linecap="square"></path>
+                <path d="M133.007977,454.217637 L130.035076,454.217637" id="Line" stroke-linecap="square"></path>
+                <path d="M133.007977,454.217637 L133.007977,464.050172" id="Line" stroke-linecap="square"></path>
+                <path d="M133,468 L133,478" id="Line" stroke-linecap="square"></path>
+                <path d="M133,482 L133,494" id="Line" stroke-linecap="square"></path>
+                <path d="M130,450 L130,454" id="Line" stroke-linecap="square"></path>
+                <path d="M130,449 L133,449" id="Line" stroke-linecap="square"></path>
+                <path d="M133,438 L133,449" id="Line" stroke-linecap="square"></path>
+                <path d="M133,438 L130,438" id="Line" stroke-linecap="square"></path>
+                <path d="M129,434 L129,438" id="Line" stroke-linecap="square"></path>
+                <path d="M129,434 L73,434" id="Line" stroke-linecap="square"></path>
+                <path d="M72,437 L72,434" id="Line" stroke-linecap="square"></path>
+                <path d="M57.0990195,487 L52,487" id="Line" stroke-linecap="square"></path>
+                <path d="M51,446 L51,487" id="Line" stroke-linecap="square"></path>
+                <path d="M51,446 L57,446" id="Line" stroke-linecap="square"></path>
+                <path d="M51,446 L57,446" id="Line" stroke-linecap="square"></path>
+                <path d="M51,437 L72.0237961,437" id="Line" stroke-linecap="square"></path>
+                <path d="M51,437 L51,340.994792" id="Line" stroke-linecap="square"></path>
+                <path d="M60.0000019,340.329861 L51,340.329861" id="Line" stroke-linecap="square"></path>
+                <path d="M60,341 L60,344" id="Line" stroke-linecap="square"></path>
+                <path d="M219,344 L60.0000019,344" id="Line" stroke-linecap="square"></path>
+                <path d="M137.683757,344 L137.683757,285.921136" id="Line" stroke-linecap="square"></path>
+                <path d="M219,344 L219,284.999994" id="Line" stroke-linecap="square"></path>
+                <path d="M60,333 L60,325" id="Line" stroke-linecap="square"></path>
+                <path d="M53,325 L60.0000019,325" id="Line" stroke-linecap="square"></path>
+                <path d="M53,325 L53,287" id="Line" stroke-linecap="square"></path>
+                <path d="M66.0384045,287 L53,287" id="Line" stroke-linecap="square"></path>
+                <path d="M66,287 L66,282" id="Line" stroke-linecap="square"></path>
+                <path d="M125,281 L66,281" id="Line" stroke-linecap="square"></path>
+                <path d="M125,282 L125,285.001846" id="Line" stroke-linecap="square"></path>
+                <path d="M128,285 L125,285" id="Line" stroke-linecap="square"></path>
+                <path d="M143,285 L136,285" id="Line" stroke-linecap="square"></path>
+                <path d="M136,285.001846 L136,279" id="Line" stroke-linecap="square"></path>
+                <path d="M143,278 L136.000002,278" id="Line" stroke-linecap="square"></path>
+                <path d="M143,278 L143,285" id="Line" stroke-linecap="square"></path>
+                <path d="M157.000421,284.714045 L151,284.714045" id="Line" stroke-linecap="square"></path>
+                <path d="M157,284 L157,280" id="Line" stroke-linecap="square"></path>
+                <path d="M207.01,279 L157.000421,279" id="Line" stroke-linecap="square"></path>
+                <path d="M207,280 L207,285" id="Line" stroke-linecap="square"></path>
+                <path d="M208,285 L207,285" id="Line" stroke-linecap="square"></path>
+                <path d="M217,285 L217,279.999997" id="Line" stroke-linecap="square"></path>
+                <path d="M249,279.333331 L216.993056,279.333331" id="Line" stroke-linecap="square"></path>
+                <path d="M249,279 L249,277" id="Line" stroke-linecap="square"></path>
+                <path d="M258,277 L249,277" id="Line" stroke-linecap="square"></path>
+                <path d="M258,277 L258,285" id="Line" stroke-linecap="square"></path>
+                <path d="M252.999612,285 L258,285" id="Line" stroke-linecap="square"></path>
+                <path d="M252,285 L252,294" id="Line" stroke-linecap="square"></path>
+                <path d="M257,294 L252.999612,294" id="Line" stroke-linecap="square"></path>
+                <path d="M257,294 L257,300" id="Line" stroke-linecap="square"></path>
+                <path d="M259,300 L257,300" id="Line" stroke-linecap="square"></path>
+                <path d="M272,300 L271,300" id="Line" stroke-linecap="square"></path>
+                <path d="M272,300 L272,295.999999" id="Line" stroke-linecap="square"></path>
+                <path d="M373.002314,299.709161 L374.002034,299.709161" id="Line" stroke-linecap="square"></path>
+                <path d="M387,300 L387.999721,300" id="Line" stroke-linecap="square"></path>
+                <path d="M388,310 L388,296" id="Line" stroke-linecap="square"></path>
+                <path d="M388,310 L393,310" id="Line" stroke-linecap="square"></path>
+                <path d="M393,333 L393,310" id="Line" stroke-linecap="square"></path>
+                <path d="M393,333 L387.999971,333" id="Line" stroke-linecap="square"></path>
+                <path d="M387,392 L387,333" id="Line" stroke-linecap="square"></path>
+                <path d="M387.999971,392 L391,392" id="Line" stroke-linecap="square"></path>
+                <path d="M391,402 L391,392" id="Line" stroke-linecap="square"></path>
+                <path d="M391.15172,401.690691 L251.968437,401.690691" id="Line" stroke-linecap="square"></path>
+                <path d="M252,392 L252,402" id="Line" stroke-linecap="square"></path>
+                <path d="M252,392 L258,392" id="Line" stroke-linecap="square"></path>
+                <path d="M258,300 L258,392" id="Line" stroke-linecap="square"></path>
+                <path d="M272,300 L272,315" id="Line" stroke-linecap="square"></path>
+                <path d="M277,315 L272,315" id="Line" stroke-linecap="square"></path>
+                <path d="M277,315 L277,334" id="Line" stroke-linecap="square"></path>
+                <path d="M271.999931,334 L293.000017,334" id="Line" stroke-linecap="square"></path>
+                <path d="M293,312 L293,334" id="Line" stroke-linecap="square"></path>
+                <path d="M293.000017,312 L320.000153,312" id="Line" stroke-linecap="square"></path>
+                <path d="M320,342 L320,312" id="Line" stroke-linecap="square"></path>
+                <path d="M373,342 L272,342" id="Line" stroke-linecap="square"></path>
+                <path d="M271,342 L271,353" id="Line" stroke-linecap="square"></path>
+                <path d="M278,353 L271.999931,353" id="Line" stroke-linecap="square"></path>
+                <path d="M278,353 L278,372.0002" id="Line" stroke-linecap="square"></path>
+                <path d="M272,372 L278,372" id="Line" stroke-linecap="square"></path>
+                <path d="M272,372.0002 L272,392" id="Line" stroke-linecap="square"></path>
+                <path d="M373,392 L272,392" id="Line" stroke-linecap="square"></path>
+                <path d="M373,392 L373,342" id="Line" stroke-linecap="square"></path>
+                <path d="M373,295 L373,334" id="Line" stroke-linecap="square"></path>
+                <path d="M358,334 L373,334" id="Line" stroke-linecap="square"></path>
+                <path d="M320,314 L367,314" id="Line" stroke-linecap="square"></path>
+                <path d="M367,333 L367,314" id="Line" stroke-linecap="square"></path>
+                <path d="M348,340 L348,321" id="Line" stroke-linecap="square"></path>
+                <path d="M388,296 L394,296" id="Line" stroke-linecap="square"></path>
+                <path d="M394,284.999812 L394,296" id="Line" stroke-linecap="square"></path>
+                <path d="M394,284 L388,284" id="Line" stroke-linecap="square"></path>
+                <path d="M388,277 L388,284.999812" id="Line" stroke-linecap="square"></path>
+                <path d="M388,277 L395,277" id="Line" stroke-linecap="square"></path>
+                <path d="M395,279 L395,277" id="Line" stroke-linecap="square"></path>
+                <path d="M480,280 L480,278" id="Line" stroke-linecap="square"></path>
+                <path d="M488,277 L480,277" id="Line" stroke-linecap="square"></path>
+                <path d="M489,277 L489,279" id="Line" stroke-linecap="square"></path>
+                <path d="M508,280 L489,280" id="Line" stroke-linecap="square"></path>
+                <path d="M508,279 L508,272" id="Line" stroke-linecap="square"></path>
+                <path d="M395,280 L479,280" id="Line" stroke-linecap="square"></path>
+                <path d="M373.004951,294.333333 L272.002314,294.333333" id="Line" stroke-linecap="square"></path>
+                <path d="M129,157 L129,115" id="Line" stroke-linecap="square"></path>
+                <path d="M114,107 L66.9973405,107" id="Line" stroke-linecap="square"></path>
+                <path d="M129,113 L124,113" id="Line" stroke-linecap="square"></path>
+                <path d="M129,101 L124,101" id="Line" stroke-linecap="square"></path>
+                <path d="M129,101 L129,68" id="Line" stroke-linecap="square"></path>
+                <path d="M115,108 L115,107" id="Line" stroke-linecap="square"></path>
+                <path d="M68,51 L164,51" id="Line" stroke-linecap="square"></path>
+                <path d="M144.973702,69 L164,69" id="Line" stroke-linecap="square"></path>
+                <path d="M144,69 L144,120" id="Line" stroke-linecap="square"></path>
+                <path d="M146,120 L146,134" id="Line" stroke-linecap="square"></path>
+                <path d="M143,134 L146,134" id="Line" stroke-linecap="square"></path>
+                <path d="M142,134 L142,142" id="Line" stroke-linecap="square"></path>
+                <path d="M158,142 L142.999784,142" id="Line" stroke-linecap="square"></path>
+                <path d="M157,180 L157,150" id="Line" stroke-linecap="square"></path>
+                <path d="M157,180 L161,180" id="Line" stroke-linecap="square"></path>
+                <path d="M157,189 L160,189" id="Line" stroke-linecap="square"></path>
+                <path d="M160,200 L160,190" id="Line" stroke-linecap="square"></path>
+                <path d="M160,201 L158,201" id="Line" stroke-linecap="square"></path>
+                <path d="M157,229 L157,201" id="Line" stroke-linecap="square"></path>
+                <path d="M162,235 L174,235" id="Line" stroke-linecap="square"></path>
+                <path d="M175,237 L175,235.000254" id="Line" stroke-linecap="square"></path>
+                <path d="M175,238.333164 L206,238.333164" id="Line" stroke-linecap="square"></path>
+                <path d="M206,235 L206,238" id="Line" stroke-linecap="square"></path>
+                <path d="M206,234 L250,234" id="Line" stroke-linecap="square"></path>
+                <path d="M250,238.000021 L250,235" id="Line" stroke-linecap="square"></path>
+                <path d="M250,238 L258,238" id="Line" stroke-linecap="square"></path>
+                <path d="M258,182 L258,237.009089" id="Line" stroke-linecap="square"></path>
+                <path d="M258,182 L271,182 L278,179 L287,195" id="Line" stroke-linecap="square"></path>
+                <path d="M162,198 L219.00877,198" id="Line" stroke-linecap="square"></path>
+                <path d="M220,152 L220,198" id="Line" stroke-linecap="square"></path>
+                <path d="M218.008331,150 L158,150" id="Line" stroke-linecap="square"></path>
+                <path d="M220,151 L220,105" id="Line" stroke-linecap="square"></path>
+                <path d="M158,141.987807 L158,108" id="Line" stroke-linecap="square"></path>
+                <path d="M162,108 L158,108" id="Line" stroke-linecap="square"></path>
+                <path d="M162,108 L162,104" id="Line" stroke-linecap="square"></path>
+                <path d="M157,229.937744 L157,238.000254" id="Line" stroke-linecap="square"></path>
+                <path d="M161,238 L158,238" id="Line" stroke-linecap="square"></path>
+                <path d="M162,235 L162,238" id="Line" stroke-linecap="square"></path>
+                <path d="M143,155 L136,155" id="Line" stroke-linecap="square"></path>
+                <path d="M129,60 L129,51" id="Line" stroke-linecap="square"></path>
+                <path d="M66,164 L136,164" id="Line" stroke-linecap="square"></path>
+                <path d="M137,238 L143,238" id="Line" stroke-linecap="square"></path>
+                <path d="M143,156 L143,238" id="Line" stroke-linecap="square"></path>
+                <path d="M136,238 L136,155" id="Line" stroke-linecap="square"></path>
+                <path d="M68,230 L73,230" id="Line" stroke-linecap="square"></path>
+                <path d="M35,652.001312 L36,269" id="Line" stroke-linecap="square"></path>
+                <path d="M80,237 L80,229 L81,229 L83,230 L126.41032,230 L128,229 L129,229 L129,237" id="Path-1695"></path>
+                <circle id="Oval-1" cx="3" cy="232" r="3"></circle>
+                <circle id="Oval-1" cx="3" cy="283" r="3"></circle>
+                <circle id="Oval-1" cx="542" cy="235" r="3"></circle>
+                <circle id="Oval-1" cx="542" cy="280" r="3"></circle>
+            </g>
+            <text id="EECS-1005" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="14" font-weight="526" sketch:alignment="middle" line-spacing="14" fill="#555544">
+                <tspan x="228.908" y="148">Mt.</tspan>
+                <tspan x="215.615" y="162">Everest</tspan>
+                <tspan x="215.5" y="177.823975" font-size="10" line-spacing="10">EECS 1005</tspan>
+            </text>
+            <text id="EECS-1005" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="14" font-weight="526" sketch:alignment="middle" line-spacing="14" fill="#555544">
+                <tspan x="310.017" y="141">Mt. Fitz</tspan>
+                <tspan x="321.784" y="155">Roy</tspan>
+                <tspan x="310" y="170.823975" font-size="10" line-spacing="10">EECS 1008</tspan>
+            </text>
+            <text id="EECS-1005" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="14" font-weight="526" sketch:alignment="middle" line-spacing="14" fill="#555544">
+                <tspan x="309" y="185">Kiliman-</tspan>
+                <tspan x="323.301" y="199">jaro</tspan>
+                <tspan x="316.427" y="215.883911" font-size="10">EECS 1012</tspan>
+            </text>
+            <text id="EECS-1005" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="14" font-weight="526" sketch:alignment="middle" line-spacing="14" fill="#555544">
+                <tspan x="221.76" y="209">Mauna</tspan>
+                <tspan x="231.357" y="223">Kea</tspan>
+                <tspan x="220" y="238.823975" font-size="10" line-spacing="10">EECS 1012</tspan>
+            </text>
+            <text id="EECS-1003" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="10" font-weight="526" sketch:alignment="middle" line-spacing="10" fill="#555544">
+                <tspan x="215" y="82">Soc Impact:</tspan>
+                <tspan x="273.68" y="84.0599365" font-size="14"></tspan>
+                <tspan x="229.533" y="90.1760254" font-size="14" line-spacing="14">Mt.</tspan>
+                <tspan x="218.326" y="104.176025" font-size="14" line-spacing="14">Bromo</tspan>
+                <tspan x="216.125" y="120">EECS 1003</tspan>
+            </text>
+            <text id="EECS-1003" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="10" font-weight="526" sketch:alignment="middle" line-spacing="10" fill="#555544">
+                <tspan x="218.95" y="317">Game Dev:</tspan>
+                <tspan x="275.46" y="319.059937" font-size="14"></tspan>
+                <tspan x="224.873" y="325.176025" font-size="14" line-spacing="14">Table</tspan>
+                <tspan x="212" y="339.176025" font-size="14" line-spacing="14">Mountain</tspan>
+                <tspan x="218.99" y="355">EECS 1303</tspan>
+            </text>
+            <text id="EECS-1003" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="10" font-weight="526" sketch:alignment="middle" line-spacing="10" fill="#555544">
+                <tspan x="222.971" y="468">Web Dev:</tspan>
+                <tspan x="273.741" y="470.059937" font-size="14"></tspan>
+                <tspan x="232.107" y="476.176025" font-size="14" line-spacing="14">The</tspan>
+                <tspan x="219.5" y="490.176025" font-size="14" line-spacing="14">Hoggar</tspan>
+                <tspan x="224.771" y="508.059937">EECS 1500</tspan>
+            </text>
+            <text id="EECS-1003" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="10" font-weight="526" sketch:alignment="middle" line-spacing="10" fill="#555544">
+                <tspan x="308.418" y="323">VR/AR:</tspan>
+                <tspan x="346.108" y="325.059937" font-size="14"></tspan>
+                <tspan x="286.5" y="331.176025" font-size="14" line-spacing="14">Matterhorn</tspan>
+                <tspan x="299.048" y="347">EECS 1311</tspan>
+            </text>
+            <text sketch:type="MSTextLayer" font-family="Avenir Next" font-size="14" font-weight="526" sketch:alignment="middle" line-spacing="18" fill="#555544">
+                <tspan x="449.588" y="241.116089">EECS</tspan>
+                <tspan x="444.968" y="259.116089">Atrium</tspan>
+            </text>
+        </g>
+        <g id="ggbl" sketch:type="MSLayerGroup" transform="translate(689.000000, -172.000000)">
+            <g id="inner-outline" transform="translate(30.000000, 208.000000)" stroke="#555544" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup">
+                <path d="M18,139 L18,200 L31,214" id="Line"></path>
+                <path d="M142,129 L142,198 L129,212" id="Line"></path>
+                <path d="M142,129 L156,129" id="Line"></path>
+                <path d="M156,123.786204 L156,129" id="Line"></path>
+                <path d="M156,123 L167,123" id="Line"></path>
+                <path d="M167,134 L167,125" id="Line"></path>
+                <path d="M167.04875,134 L164,134" id="Line"></path>
+                <path d="M164,144 L164,135" id="Line"></path>
+                <path d="M165,144 L229,144" id="Line"></path>
+                <path d="M229,316 L229,145" id="Line"></path>
+                <path d="M229,316 L243,316" id="Line"></path>
+                <path d="M243,252 L243,145" id="Line"></path>
+                <path d="M244,252 L432,252" id="Line"></path>
+                <path d="M432,252 L432,151" id="Line"></path>
+                <path d="M407,150 L432,150" id="Line"></path>
+                <path d="M407,148.997883 L407,144" id="Line"></path>
+                <path d="M243,143 L407,143" id="Line"></path>
+                <path d="M158,98 L413,98" id="Line"></path>
+                <path d="M433,98 L429,98" id="Line"></path>
+                <path d="M433,98 L433,59" id="Line"></path>
+                <path d="M156,112 L156,98" id="Line"></path>
+                <path d="M157,112 L182,112" id="Line"></path>
+                <path d="M182,129 L182,113" id="Line"></path>
+                <path d="M182,130 L413,130" id="Line"></path>
+                <path d="M413,98 L413,130" id="Line"></path>
+                <path d="M429,98 L429,118" id="Line"></path>
+                <path d="M438,118 L430,118" id="Line"></path>
+                <path d="M439,118 L439,130" id="Line"></path>
+                <path d="M446,130 L439,130" id="Line"></path>
+                <path d="M433,59 L152,59" id="Line"></path>
+                <path d="M152,58 L152,1" id="Line"></path>
+                <path d="M136,107 L136,2" id="Line"></path>
+                <path d="M136,1 L152.003038,1" id="Line"></path>
+                <path d="M446,267.000244 L446,131" id="Line"></path>
+                <path d="M243,316 L243,267" id="Line"></path>
+                <path d="M446,267 L244,267" id="Line"></path>
+                <path d="M8,131 L0,139 L0,201 L13,215" id="Line"></path>
+                <path d="M38,110 L2,110" id="Line"></path>
+                <path d="M2,136.019224 L2,110" id="Line"></path>
+                <path d="M39,110 L39,106.701515" id="Line"></path>
+                <path d="M18,109 L18,80" id="Line"></path>
+                <path d="M47,107 L47,81" id="Line"></path>
+                <path d="M18,80 L71,80" id="Line"></path>
+                <path d="M71,106 L71,81" id="Line"></path>
+                <path d="M71,107 L53.8763322,107" id="Line"></path>
+                <path d="M61,107 L136.006668,107" id="Line"></path>
+                <path d="M28,180 L28,193 L51,215 L110,215 L132,194 L132,180" id="Line"></path>
+                <path d="M28,172 L28,138.854167 C28,138.854167 37.2440163,129.098246 37.7529094,129.098246 C65.1420024,129.098246 122.222222,129 122.222222,129 L132,138.854167 L132,172" id="Line"></path>
+            </g>
+            <text id="GGBL-Atrium" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="14" font-weight="526" sketch:alignment="middle" line-spacing="18" fill="#555544">
+                <tspan x="220" y="290">GGBL Atrium</tspan>
+            </text>
+        </g>
+        <g id="DOW" sketch:type="MSLayerGroup" transform="translate(518.000000, 315.500000) rotate(-90.000000) translate(-518.000000, -315.500000) translate(146.500000, 103.500000)">
+            <g id="outline" transform="translate(166.000000, 12.000000)" stroke="#555544" stroke-width="2" sketch:type="MSShapeGroup">
+                <path d="M82.6944444,128 L61,128" id="Line" stroke-linecap="square"></path>
+                <path d="M60,164 L60,128" id="Line" stroke-linecap="square"></path>
+                <path d="M60.3108108,164 L83,164" id="Line" stroke-linecap="square"></path>
+                <path d="M83,128 L83,164" id="Line" stroke-linecap="square"></path>
+                <path d="M112,223.996504 L112,367" id="Line" stroke-linecap="square"></path>
+                <path d="M112,216 L112,166.991228" id="Line" stroke-linecap="square"></path>
+                <path d="M112,159 L112,96.991936" id="Line" stroke-linecap="square"></path>
+                <path d="M112,96 L160,96" id="Line" stroke-linecap="square"></path>
+                <path d="M130,80 L130,96" id="Line" stroke-linecap="square"></path>
+                <path d="M160,73 L160,96" id="Line" stroke-linecap="square"></path>
+                <path d="M160,73 L124,73" id="Line" stroke-linecap="square"></path>
+                <path id="Line" stroke-linecap="square" d="M83,69 L100.87803,69 C103.918687,69 110,69 110,69"></path>
+                <path d="M82,69 L82,76" id="Line" stroke-linecap="square"></path>
+                <path d="M82,69 L104,69" id="Line" stroke-linecap="square"></path>
+                <path d="M3,76 L82,76" id="Line" stroke-linecap="square"></path>
+                <path d="M0.999999993,376 L82,376" id="Line" stroke-linecap="square"></path>
+                <path d="M83,379 L108,379" id="Line" stroke-linecap="square"></path>
+                <path d="M109,376 L122,376" id="Line" stroke-linecap="square"></path>
+                <path d="M129,376 L137,376" id="Line" stroke-linecap="square"></path>
+                <path d="M139,399 L139,376" id="Line" stroke-linecap="square"></path>
+                <path d="M139,399 L109,399" id="Line" stroke-linecap="square"></path>
+                <path d="M113,367 L129,367" id="Line" stroke-linecap="square"></path>
+                <path d="M129,376 L129,367" id="Line" stroke-linecap="square"></path>
+                <path d="M109,399 L109,376" id="Line" stroke-linecap="square"></path>
+                <path d="M82,376 L82,379" id="Line" stroke-linecap="square"></path>
+                <path d="M76,113 L76,116" id="Line" stroke-linecap="square"></path>
+                <path d="M3,111 L81.0990195,111" id="Line" stroke-linecap="square"></path>
+                <path d="M1,345 L1,111" id="Line" stroke-linecap="square"></path>
+                <path d="M1,345 L75.0067596,345" id="Line" stroke-linecap="square"></path>
+                <path d="M76,165 L76,167" id="Line" stroke-linecap="square"></path>
+                <path d="M0.999999999,180 L90,180" id="Line" stroke-linecap="square"></path>
+                <path d="M112.037531,159 L161,159" id="Line" stroke-linecap="square"></path>
+                <path d="M112.037531,223 L161,223" id="Line" stroke-linecap="square"></path>
+                <path d="M161,159.612304 L161,223" id="Line" stroke-linecap="square"></path>
+                <path d="M2,275 L90,275" id="Line" stroke-linecap="square"></path>
+                <path d="M70,290 L83,290" id="Line" stroke-linecap="square"></path>
+                <path d="M69,290 L69,327" id="Line" stroke-linecap="square"></path>
+                <path d="M83,327 L70,327" id="Line" stroke-linecap="square"></path>
+                <path d="M75,345 L75,339" id="Line" stroke-linecap="square"></path>
+                <path d="M76,289 L76,287" id="Line" stroke-linecap="square"></path>
+                <path d="M82,327 L82,289.537128" id="Line" stroke-linecap="square"></path>
+                <path d="M90,265 L90,274.166667 L88,276" id="Path-2500" transform="translate(89.142991, 270.500000) scale(1, -1) translate(-89.142991, -270.500000) "></path>
+                <path d="M90,180 L90,189.166667 L88,191" id="Path-2500"></path>
+                <path d="M78.6444067,194 L89.2650964,204 L89.2650964,254 L78.6444067,264" id="Path-2501"></path>
+            </g>
+            <text id="iOS:" sketch:type="MSTextLayer" transform="translate(199.000000, 238.510000) rotate(-270.000000) translate(-199.000000, -238.510000) " font-family="Avenir Next" font-size="10" font-weight="526" sketch:alignment="middle" line-spacing="16" fill="#555544">
+                <tspan x="196.285" y="227.51">iOS:</tspan>
+                <tspan x="216.195" y="227.51" font-size="16"></tspan>
+                <tspan x="165" y="232.214102" font-size="16">Mt. Cook</tspan>
+                <tspan x="240.072" y="243.51" font-size="18"></tspan>
+                <tspan x="175.075" y="251.450063" line-spacing="10">DOW 1013</tspan>
+            </text>
+            <text sketch:type="MSTextLayer" transform="translate(304.000000, 203.000000) rotate(-270.000000) translate(-304.000000, -203.000000) " font-family="Avenir Next" font-size="10" font-weight="526" sketch:alignment="middle" line-spacing="10" fill="#555544">
+                <tspan x="290.5" y="203">DOW</tspan>
+                <tspan x="291.385" y="213">1010</tspan>
+            </text>
+            <text id="Android:" sketch:type="MSTextLayer" transform="translate(203.000000, 322.102009) rotate(-270.000000) translate(-203.000000, -322.102009) " font-family="Avenir Next" font-size="10" font-weight="526" sketch:alignment="middle" line-spacing="10" fill="#555544">
+                <tspan x="184.976" y="313.102009">Android:</tspan>
+                <tspan x="175" y="321.866047" font-size="16" line-spacing="18">Mt. Fuji</tspan>
+                <tspan x="237.784" y="325.161945" font-size="18" line-spacing="18"></tspan>
+                <tspan x="178.931" y="341.102009">DOW 1017</tspan>
+            </text>
+            <text id="DOW-1007" sketch:type="MSTextLayer" transform="translate(203.000000, 157.500000) rotate(-270.000000) translate(-203.000000, -157.500000) " font-family="Avenir Next" font-size="14" font-weight="526" sketch:alignment="middle" line-spacing="14" fill="#555544">
+                <tspan x="190.043" y="152.5">Mt. </tspan>
+                <tspan x="179.088" y="166.5">Huang</tspan>
+                <tspan x="228.76" y="169.383911" font-size="16"></tspan>
+                <tspan x="176" y="182.323975" font-size="10" line-spacing="10">DOW 1005</tspan>
+            </text>
+        </g>
+        <g id="bbb" sketch:type="MSLayerGroup" transform="translate(191.500000, 488.500000) rotate(-90.000000) translate(-191.500000, -488.500000) translate(12.000000, 285.000000)">
+            <g id="inner-outline" transform="translate(137.000000, 38.000000)" stroke="#555544" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup">
+                <path d="M137,137 L219.500042,137" id="Line"></path>
+                <path d="M205.500042,204.002274 L205.500042,149" id="Line"></path>
+                <path d="M163.951835,149 L205.500042,149" id="Line"></path>
+                <path d="M205.500042,204.002274 L164,204.002274" id="Line"></path>
+                <path d="M164,181.909287 L164,204.002274" id="Line"></path>
+                <path d="M137,137.855216 L137,169.008472" id="Line"></path>
+                <path d="M137,169 L164,169" id="Line"></path>
+                <path d="M164,150 L164,168" id="Line"></path>
+                <path d="M137,19 L137,0.972243607" id="Line"></path>
+                <path d="M137,55 L137,26" id="Line"></path>
+                <path d="M137,65 L137,61" id="Line"></path>
+                <path d="M137,127.008926 L137,71" id="Line"></path>
+                <path d="M137,63 L220,63" id="Line"></path>
+                <path d="M220,19 L220,63" id="Line"></path>
+                <path d="M220,19 L137,19" id="Line"></path>
+                <path d="M120,3 L120,30" id="Line"></path>
+                <path d="M120,1 L136.031219,1" id="Line"></path>
+                <path d="M120,70 L120,32" id="Line"></path>
+                <path d="M7.00000003,70 L120,70" id="Line"></path>
+                <path d="M113,200 L91,200" id="Line"></path>
+                <path d="M91,180 L91,200" id="Line"></path>
+                <path d="M91,179 L113,179" id="Line"></path>
+                <path d="M113,200 L113,180" id="Line"></path>
+                <path d="M7,213 L114,213" id="Line"></path>
+                <path d="M114,345.016258 L114,213.996184" id="Line"></path>
+                <path d="M114,356 L114,254" id="Line"></path>
+                <path d="M133,368.002365 L133,180" id="Line"></path>
+                <path d="M174,169 L174,185" id="Line"></path>
+                <path d="M133,180 L164,180" id="Line"></path>
+                <path d="M174,185 L186,185" id="Line"></path>
+                <path d="M186,182 L186,185" id="Line"></path>
+                <path d="M186,182 L205,182" id="Line"></path>
+                <path d="M187,175 L205,175" id="Line"></path>
+                <path d="M186,175 L186,169" id="Line"></path>
+                <path d="M174,169 L186,169" id="Line"></path>
+                <path d="M19,115 L19,111" id="Line"></path>
+                <path d="M18,115 L2,115" id="Line"></path>
+                <path d="M1,112 L1,115" id="Line"></path>
+                <path d="M1,111 L18,111" id="Line"></path>
+                <path d="M1,141 L18,141" id="Line"></path>
+                <path d="M18,150 L18,141" id="Line"></path>
+                <path d="M18,150 L1,150" id="Line"></path>
+                <path d="M1,141 L1,150" id="Line"></path>
+                <path d="M97,147.950514 C97,147.950514 101.193493,145.209185 105.7609,149.037443 C110.366751,152.897924 106.439483,158 106.439483,158" id="Line"></path>
+                <path d="M90,144.336442 C90,144.336442 99.322576,134.322129 109.880988,141.730454 C123.245312,151.107551 113.692693,164 113.692693,164" id="Line"></path>
+                <path d="M97.9999999,147 L91,144" id="Line"></path>
+                <path d="M98,147 L95,141" id="Line"></path>
+                <path d="M100,147 L99.1243147,139.994518" id="Line"></path>
+                <path d="M103,147 L104.758383,139.966467" id="Line"></path>
+                <path d="M105,148 L109,142" id="Line"></path>
+                <path d="M107,150 L113,145" id="Line"></path>
+                <path d="M109,152 L116,150" id="Line"></path>
+                <path d="M108,155 L116,156" id="Line"></path>
+                <path d="M107,158 L113.384473,163" id="Line"></path>
+                <path d="M108,157 L115,160" id="Line"></path>
+                <path d="M7,110.012497 L7,70" id="Line"></path>
+                <path d="M7,213 L7,150.992858" id="Line"></path>
+                <path d="M220,137 L220,64" id="Line"></path>
+            </g>
+            <text id="BBB-1670" sketch:type="MSTextLayer" transform="translate(320.000000, 140.000000) rotate(-270.000000) translate(-320.000000, -140.000000) " font-family="Avenir Next" font-size="10" font-weight="526" sketch:alignment="middle" line-spacing="10" fill="#555544">
+                <tspan x="295" y="145">BBB 1670</tspan>
+            </text>
+            <text id="BBB-1690" sketch:type="MSTextLayer" transform="translate(320.215532, 78.000000) rotate(-270.000000) translate(-320.215532, -78.000000) " font-family="Avenir Next" font-size="10" font-weight="526" sketch:alignment="middle" line-spacing="11" fill="#555544">
+                <tspan x="310.210532" y="77">BBB</tspan>
+                <tspan x="307.715532" y="88">1690</tspan>
+            </text>
+            <text id="BBB-Atrium" sketch:type="MSTextLayer" transform="translate(196.370170, 166.721694) rotate(-270.000000) translate(-196.370170, -166.721694) " font-family="Avenir Next" font-size="18" font-weight="526" sketch:alignment="middle" line-spacing="14" fill="#555544">
+                <tspan x="178.75117" y="170.721694">BBB</tspan>
+                <tspan x="167.87017" y="184.721694">Atrium</tspan>
+            </text>
+        </g>
+        <g id="icons" sketch:type="MSLayerGroup" transform="translate(139.000000, 119.000000)">
+            <g id="dining" transform="translate(999.000000, 513.000000)" stroke="#F78F1E" stroke-width="2" sketch:type="MSShapeGroup">
+                <path d="M3,9.73854 L3,0.73854" id="Stroke-196"></path>
+                <path d="M9.1386,0.73854 L9.1386,10.9843675 C9.1386,12.3938558 7.7956899,13.533857 6.13999018,13.533857 L6.13999018,28.4620223 C6.13999018,29.16588 5.46644986,29.73854 4.6386,29.73854 C3.80657961,29.73854 3.13512456,29.16588 3.13512456,28.4620223 L3.13512456,13.533857 C1.47942484,13.533857 0.1386,12.3938558 0.1386,10.9843675 L0.1386,0.73854" id="Stroke-198"></path>
+                <path d="M6,9.73854 L6,0.73854" id="Stroke-200"></path>
+                <path d="M13.5955,0.73854 C12.8809,0.73854 12.2977,1.31814 12.2977,2.03634 L12.2977,28.88514 C12.2977,29.59974 12.8809,30.18114 13.5955,30.18114 C14.3119,30.18114 14.8933,29.59974 14.8933,28.88514 L14.8933,21.07674 C16.3243,21.07674 17.4817,19.74834 17.4817,18.48654 C17.4817,17.22654 15.1039,2.96334 14.8933,2.03634 C14.6827,1.10754 14.3119,0.73854 13.5955,0.73854 L13.5955,0.73854 Z" id="Stroke-202"></path>
+            </g>
+            <g id="exit" transform="translate(656.000000, 500.000000)" fill="#F78F1E" sketch:type="MSShapeGroup">
+                <path d="M6.64819945,14.7259091 L20.1573407,0 L24.7445983,0 L11.2367867,14.7259091 L24.7445983,29.4545455 L20.1573407,29.4545455 L6.64819945,14.7259091 Z" id="Fill-367"></path>
+                <path d="M0,14.7259091 L13.5091413,0 L18.0963989,0 L4.58858726,14.7259091 L18.0963989,29.4545455 L13.5091413,29.4545455 L0,14.7259091 Z" id="Fill-369"></path>
+            </g>
+            <g id="exit" transform="translate(710.315000, 922.315000) rotate(-90.000000) translate(-710.315000, -922.315000) translate(697.315000, 907.315000)" fill="#F78F1E" sketch:type="MSShapeGroup">
+                <path d="M6.79844504,14.7259091 L20.6128854,0 L25.3038124,0 L11.4907318,14.7259091 L25.3038124,29.4545455 L20.6128854,29.4545455 L6.79844504,14.7259091 Z" id="Fill-367"></path>
+                <path d="M0,14.7259091 L13.8144403,0 L18.5053674,0 L4.69228677,14.7259091 L18.5053674,29.4545455 L13.8144403,29.4545455 L0,14.7259091 Z" id="Fill-369"></path>
+            </g>
+            <g id="exit" transform="translate(1211.130000, 515.000000) rotate(-180.000000) translate(-1211.130000, -515.000000) translate(1198.630000, 500.000000)" fill="#F78F1E" sketch:type="MSShapeGroup">
+                <path d="M6.64736848,14.7259091 L20.1548212,-3.41060513e-13 L24.7415055,-3.41060513e-13 L11.2353822,14.7259091 L24.7415055,29.4545455 L20.1548212,29.4545455 L6.64736848,14.7259091 Z" id="Fill-367"></path>
+                <path d="M0,14.7259091 L13.5074528,-3.41060513e-13 L18.094137,-3.41060513e-13 L4.58801373,14.7259091 L18.094137,29.4545455 L13.5074528,29.4545455 L0,14.7259091 Z" id="Fill-369"></path>
+            </g>
+            <g id="exit" transform="translate(271.500000, 415.500000) rotate(-90.000000) translate(-271.500000, -415.500000) translate(258.500000, 400.500000)" fill="#F78F1E" sketch:type="MSShapeGroup">
+                <path d="M6.93181818,14.9713409 L21.0172727,0 L25.8002273,0 L11.7161591,14.9713409 L25.8002273,29.9454545 L21.0172727,29.9454545 L6.93181818,14.9713409 Z" id="Fill-367"></path>
+                <path d="M2.84217094e-14,14.9713409 L14.0854545,0 L18.8684091,0 L4.78434091,14.9713409 L18.8684091,29.9454545 L14.0854545,29.9454545 L2.84217094e-14,14.9713409 Z" id="Fill-369"></path>
+            </g>
+            <g id="exit" transform="translate(541.815789, 417.000000) rotate(-90.000000) translate(-541.815789, -417.000000) translate(528.815789, 402.000000)" fill="#F78F1E" sketch:type="MSShapeGroup">
+                <path d="M6.97368421,14.5758998 L21.1442105,0 L25.9560526,0 L11.7869211,14.5758998 L25.9560526,29.1544992 L21.1442105,29.1544992 L6.97368421,14.5758998 Z" id="Fill-367"></path>
+                <path d="M5.68434189e-14,14.5758998 L14.1705263,0 L18.9823684,0 L4.81323684,14.5758998 L18.9823684,29.1544992 L14.1705263,29.1544992 L5.68434189e-14,14.5758998 Z" id="Fill-369"></path>
+            </g>
+            <g id="exit" transform="translate(617.007108, 142.426673) rotate(-135.000000) translate(-617.007108, -142.426673) translate(604.007108, 127.426673)" fill="#F78F1E" sketch:type="MSShapeGroup">
+                <path d="M6.64736848,14.7259091 L20.1548212,0 L24.7415055,0 L11.2353822,14.7259091 L24.7415055,29.4545455 L20.1548212,29.4545455 L6.64736848,14.7259091 Z" id="Fill-367"></path>
+                <path d="M0,14.7259091 L13.5074528,0 L18.094137,0 L4.58801373,14.7259091 L18.094137,29.4545455 L13.5074528,29.4545455 L0,14.7259091 Z" id="Fill-369"></path>
+            </g>
+            <g id="exit" transform="translate(704.171547, 142.910118) rotate(-45.000000) translate(-704.171547, -142.910118) translate(691.171547, 127.910118)" fill="#F78F1E" sketch:type="MSShapeGroup">
+                <path d="M6.51797185,14.9278031 L19.7624906,0 L24.2598912,0 L11.016676,14.9278031 L24.2598912,29.8583709 L19.7624906,29.8583709 L6.51797185,14.9278031 Z" id="Fill-367"></path>
+                <path d="M1.13686838e-13,14.9278031 L13.2445188,2.43360887e-13 L17.7419194,2.43360887e-13 L4.49870417,14.9278031 L17.7419194,29.8583709 L13.2445188,29.8583709 L1.13686838e-13,14.9278031 Z" id="Fill-369"></path>
+            </g>
+            <g id="exit" transform="translate(15.000000, 428.000000) rotate(-90.000000) translate(-15.000000, -428.000000) translate(2.000000, 413.000000)" fill="#F78F1E" sketch:type="MSShapeGroup">
+                <path d="M6.84210526,14.7259091 L20.7452632,7.63833441e-14 L25.4663158,7.63833441e-14 L11.5645263,14.7259091 L25.4663158,29.4545455 L20.7452632,29.4545455 L6.84210526,14.7259091 Z" id="Fill-367"></path>
+                <path d="M0,14.7259091 L13.9031579,7.81597009e-14 L18.6242105,7.81597009e-14 L4.72242105,14.7259091 L18.6242105,29.4545455 L13.9031579,29.4545455 L0,14.7259091 Z" id="Fill-369"></path>
+            </g>
+            <g id="woman" transform="translate(970.000000, 575.000000)" fill="#F78F1E" sketch:type="MSShapeGroup">
+                <circle id="Oval" cx="4.57068447" cy="1.62603037" r="1.62461466"></circle>
+                <path d="M4.34573787,13.5481794 L4.34573787,19.1968353 C4.33724014,20.2230904 2.80959777,20.2230904 2.79610136,19.1968353 L2.79610136,13.5481794 L0.796570716,13.5481794 L2.9460659,5.99998674 L2.59614813,5.99998674 L1.34644119,10.2989564 C1.03051581,11.2497291 -0.255183113,10.8648216 0.0467464468,9.84906597 L1.44641745,5.20017766 C1.60737997,4.66630541 2.28022199,3.7235815 3.44594876,3.70053647 L4.49570262,3.70053647 L5.69542199,3.70053647 C6.82755672,3.7235815 7.50319825,4.67430401 7.69495323,5.20017766 L9.09462513,9.84906597 C9.37855881,10.859822 8.10305724,11.2747232 7.79492949,10.2989564 L6.54522269,5.99998674 L6.14531623,5.99998674 L8.34480105,13.5481794 L6.29528098,13.5481794 L6.29528098,19.1968353 C6.31127749,20.2230904 4.78963421,20.2180908 4.79563246,19.1968353 L4.79563246,13.5481794 L4.34573787,13.5481794 L4.34573787,13.5481794 Z" id="Shape"></path>
+            </g>
+            <g id="man" transform="translate(999.000000, 575.000000)" fill="#F78F1E" sketch:type="MSShapeGroup">
+                <ellipse id="Oval" cx="3.81455166" cy="1.63172574" rx="1.63030508" ry="1.63030508"></ellipse>
+                <path d="M2.08391909,3.71349807 C0.830337303,3.71349807 0.027219965,4.79887671 0.027219965,5.87051243 L0.027219965,10.8868252 C0.0156823117,11.8670116 1.42707986,11.8670116 1.4317958,10.8868252 L1.4317958,6.27181716 L1.78293835,6.27181716 L1.78293835,19.0132585 C1.76116743,20.343586 3.64098949,20.305462 3.63898319,19.0132585 L3.63898319,11.5891089 L3.93996392,11.5891089 L3.93996392,19.0132585 C3.96454396,20.305462 5.8541972,20.343586 5.84617058,19.0132585 L5.84617058,6.27181716 L6.19731454,6.27181716 L6.19731454,10.8868252 C6.18076112,11.8745366 7.58483398,11.8745366 7.60188757,10.8868252 L7.60188757,5.87051243 C7.58182452,4.79887671 6.74860981,3.73271068 5.49502802,3.71349807 L2.08391909,3.71349807 L2.08391909,3.71349807 Z" id="Shape"></path>
+            </g>
+            <g id="woman" transform="translate(38.412089, 217.227671)" fill="#F78F1E" sketch:type="MSShapeGroup">
+                <circle id="Oval" cx="5.71335558" cy="2.03253796" r="2.03076832"></circle>
+                <path d="M5.43217234,16.9352243 L5.43217234,23.9960441 C5.42155017,25.278863 3.51199721,25.278863 3.4951267,23.9960441 L3.4951267,16.9352243 L0.995713394,16.9352243 L3.68258237,7.49998342 L3.24518517,7.49998342 L1.68305148,12.8736955 C1.28814476,14.0621614 -0.318978892,13.5810271 0.0584330585,12.3113325 L1.80802182,6.50022208 C2.00922496,5.83288176 2.85027749,4.65447688 4.30743595,4.62567059 L5.61962827,4.62567059 L7.11927749,4.62567059 C8.5344459,4.65447688 9.37899782,5.84288002 9.61869154,6.50022208 L11.3682814,12.3113325 C11.7231985,13.5747775 10.1288216,14.093404 9.74366187,12.8736955 L8.18152836,7.49998342 L7.68164529,7.49998342 L10.4310013,16.9352243 L7.86910122,16.9352243 L7.86910122,23.9960441 C7.88909686,25.278863 5.98704276,25.2726134 5.99454058,23.9960441 L5.99454058,16.9352243 L5.43217234,16.9352243 L5.43217234,16.9352243 Z" id="Shape"></path>
+            </g>
+            <g id="man" transform="translate(76.210731, 217.227671)" fill="#F78F1E" sketch:type="MSShapeGroup">
+                <circle id="Oval" cx="4.76818958" cy="2.03965718" r="2.03788135"></circle>
+                <path d="M2.60489886,4.64187259 C1.03792163,4.64187259 0.0340249562,5.99859588 0.0340249562,7.33814054 L0.0340249562,13.6085315 C0.0196028897,14.8337644 1.78384982,14.8337644 1.78974475,13.6085315 L1.78974475,7.83977145 L2.22867294,7.83977145 L2.22867294,23.7665731 C2.20145928,25.4294825 4.55123687,25.3818275 4.54872898,23.7665731 L4.54872898,14.4863862 L4.9249549,14.4863862 L4.9249549,23.7665731 C4.95567995,25.3818275 7.3177465,25.4294825 7.30771322,23.7665731 L7.30771322,7.83977145 L7.74664317,7.83977145 L7.74664317,13.6085315 C7.7259514,14.8431708 9.48104247,14.8431708 9.50235946,13.6085315 L9.50235946,7.33814054 C9.47728065,5.99859588 8.43576226,4.66588835 6.86878503,4.64187259 L2.60489886,4.64187259 L2.60489886,4.64187259 Z" id="Shape"></path>
+            </g>
+            <g id="woman" transform="translate(258.572426, 247.427574)" fill="#F78F1E" sketch:type="MSShapeGroup">
+                <circle id="Oval" cx="4.57068447" cy="1.62603037" r="1.62461466"></circle>
+                <path d="M4.34573787,13.5481794 L4.34573787,19.1968353 C4.33724014,20.2230904 2.80959777,20.2230904 2.79610136,19.1968353 L2.79610136,13.5481794 L0.796570716,13.5481794 L2.9460659,5.99998674 L2.59614813,5.99998674 L1.34644119,10.2989564 C1.03051581,11.2497291 -0.255183113,10.8648216 0.0467464468,9.84906597 L1.44641745,5.20017766 C1.60737997,4.66630541 2.28022199,3.7235815 3.44594876,3.70053647 L4.49570262,3.70053647 L5.69542199,3.70053647 C6.82755672,3.7235815 7.50319825,4.67430401 7.69495323,5.20017766 L9.09462513,9.84906597 C9.37855881,10.859822 8.10305724,11.2747232 7.79492949,10.2989564 L6.54522269,5.99998674 L6.14531623,5.99998674 L8.34480105,13.5481794 L6.29528098,13.5481794 L6.29528098,19.1968353 C6.31127749,20.2230904 4.78963421,20.2180908 4.79563246,19.1968353 L4.79563246,13.5481794 L4.34573787,13.5481794 L4.34573787,13.5481794 Z" id="Shape"></path>
+            </g>
+            <g id="man" transform="translate(560.817863, 268.182137)" fill="#F78F1E" sketch:type="MSShapeGroup">
+                <ellipse id="Oval" cx="3.81455166" cy="1.63172574" rx="1.63030508" ry="1.63030508"></ellipse>
+                <path d="M2.08391909,3.71349807 C0.830337303,3.71349807 0.027219965,4.79887671 0.027219965,5.87051243 L0.027219965,10.8868252 C0.0156823117,11.8670116 1.42707986,11.8670116 1.4317958,10.8868252 L1.4317958,6.27181716 L1.78293835,6.27181716 L1.78293835,19.0132585 C1.76116743,20.343586 3.64098949,20.305462 3.63898319,19.0132585 L3.63898319,11.5891089 L3.93996392,11.5891089 L3.93996392,19.0132585 C3.96454396,20.305462 5.8541972,20.343586 5.84617058,19.0132585 L5.84617058,6.27181716 L6.19731454,6.27181716 L6.19731454,10.8868252 C6.18076112,11.8745366 7.58483398,11.8745366 7.60188757,10.8868252 L7.60188757,5.87051243 C7.58182452,4.79887671 6.74860981,3.73271068 5.49502802,3.71349807 L2.08391909,3.71349807 L2.08391909,3.71349807 Z" id="Shape"></path>
+            </g>
+            <g id="woman" transform="translate(604.000000, 0.000000)" fill="#F78F1E" sketch:type="MSShapeGroup">
+                <circle id="Oval" cx="4.57068447" cy="1.62603037" r="1.62461466"></circle>
+                <path d="M4.34573787,13.5481794 L4.34573787,19.1968353 C4.33724014,20.2230904 2.80959777,20.2230904 2.79610136,19.1968353 L2.79610136,13.5481794 L0.796570716,13.5481794 L2.9460659,5.99998674 L2.59614813,5.99998674 L1.34644119,10.2989564 C1.03051581,11.2497291 -0.255183113,10.8648216 0.0467464468,9.84906597 L1.44641745,5.20017766 C1.60737997,4.66630541 2.28022199,3.7235815 3.44594876,3.70053647 L4.49570262,3.70053647 L5.69542199,3.70053647 C6.82755672,3.7235815 7.50319825,4.67430401 7.69495323,5.20017766 L9.09462513,9.84906597 C9.37855881,10.859822 8.10305724,11.2747232 7.79492949,10.2989564 L6.54522269,5.99998674 L6.14531623,5.99998674 L8.34480105,13.5481794 L6.29528098,13.5481794 L6.29528098,19.1968353 C6.31127749,20.2230904 4.78963421,20.2180908 4.79563246,19.1968353 L4.79563246,13.5481794 L4.34573787,13.5481794 L4.34573787,13.5481794 Z" id="Shape"></path>
+            </g>
+            <g id="man" transform="translate(638.000000, 0.000000)" fill="#F78F1E" sketch:type="MSShapeGroup">
+                <ellipse id="Oval" cx="3.81455166" cy="1.63172574" rx="1.63030508" ry="1.63030508"></ellipse>
+                <path d="M2.08391909,3.71349807 C0.830337303,3.71349807 0.027219965,4.79887671 0.027219965,5.87051243 L0.027219965,10.8868252 C0.0156823117,11.8670116 1.42707986,11.8670116 1.4317958,10.8868252 L1.4317958,6.27181716 L1.78293835,6.27181716 L1.78293835,19.0132585 C1.76116743,20.343586 3.64098949,20.305462 3.63898319,19.0132585 L3.63898319,11.5891089 L3.93996392,11.5891089 L3.93996392,19.0132585 C3.96454396,20.305462 5.8541972,20.343586 5.84617058,19.0132585 L5.84617058,6.27181716 L6.19731454,6.27181716 L6.19731454,10.8868252 C6.18076112,11.8745366 7.58483398,11.8745366 7.60188757,10.8868252 L7.60188757,5.87051243 C7.58182452,4.79887671 6.74860981,3.73271068 5.49502802,3.71349807 L2.08391909,3.71349807 L2.08391909,3.71349807 Z" id="Shape"></path>
+            </g>
+            <text id="?" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="34" font-weight="526" line-spacing="18" fill="#F78F1E">
+                <tspan x="975" y="569">?</tspan>
+            </text>
+            <text id="?" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="34" font-weight="526" line-spacing="18" fill="#F78F1E">
+                <tspan x="274" y="345">?</tspan>
+            </text>
+        </g>
+        <g id="key-png" sketch:type="MSLayerGroup" transform="translate(446.000000, 160.000000)">
+            <text id="?" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="34" font-weight="526" line-spacing="18" fill="#F78F1E">
+                <tspan x="41" y="214">?</tspan>
+            </text>
+            <g id="dining" transform="translate(40.000000, 124.000000)" stroke="#F78F1E" stroke-width="2" sketch:type="MSShapeGroup">
+                <path d="M3,9.73854 L3,0.73854" id="Stroke-196"></path>
+                <path d="M9.1386,0.73854 L9.1386,10.9843675 C9.1386,12.3938558 7.7956899,13.533857 6.13999018,13.533857 L6.13999018,28.4620223 C6.13999018,29.16588 5.46644986,29.73854 4.6386,29.73854 C3.80657961,29.73854 3.13512456,29.16588 3.13512456,28.4620223 L3.13512456,13.533857 C1.47942484,13.533857 0.1386,12.3938558 0.1386,10.9843675 L0.1386,0.73854" id="Stroke-198"></path>
+                <path d="M6,9.73854 L6,0.73854" id="Stroke-200"></path>
+                <path d="M13.5955,0.73854 C12.8809,0.73854 12.2977,1.31814 12.2977,2.03634 L12.2977,28.88514 C12.2977,29.59974 12.8809,30.18114 13.5955,30.18114 C14.3119,30.18114 14.8933,29.59974 14.8933,28.88514 L14.8933,21.07674 C16.3243,21.07674 17.4817,19.74834 17.4817,18.48654 C17.4817,17.22654 15.1039,2.96334 14.8933,2.03634 C14.6827,1.10754 14.3119,0.73854 13.5955,0.73854 L13.5955,0.73854 Z" id="Stroke-202"></path>
+            </g>
+            <g id="exit" transform="translate(47.000000, 102.000000) rotate(-90.000000) translate(-47.000000, -102.000000) translate(34.000000, 87.000000)" fill="#F78F1E" sketch:type="MSShapeGroup">
+                <path d="M6.84210526,14.7259091 L20.7452632,7.63833441e-14 L25.4663158,7.63833441e-14 L11.5645263,14.7259091 L25.4663158,29.4545455 L20.7452632,29.4545455 L6.84210526,14.7259091 Z" id="Fill-367"></path>
+                <path d="M0,14.7259091 L13.9031579,7.81597009e-14 L18.6242105,7.81597009e-14 L4.72242105,14.7259091 L18.6242105,29.4545455 L13.9031579,29.4545455 L0,14.7259091 Z" id="Fill-369"></path>
+            </g>
+            <g id="woman" transform="translate(34.000000, 61.000000)" fill="#F78F1E" sketch:type="MSShapeGroup">
+                <circle id="Oval" cx="4.57068447" cy="1.62603037" r="1.62461466"></circle>
+                <path d="M4.34573787,13.5481794 L4.34573787,19.1968353 C4.33724014,20.2230904 2.80959777,20.2230904 2.79610136,19.1968353 L2.79610136,13.5481794 L0.796570716,13.5481794 L2.9460659,5.99998674 L2.59614813,5.99998674 L1.34644119,10.2989564 C1.03051581,11.2497291 -0.255183113,10.8648216 0.0467464468,9.84906597 L1.44641745,5.20017766 C1.60737997,4.66630541 2.28022199,3.7235815 3.44594876,3.70053647 L4.49570262,3.70053647 L5.69542199,3.70053647 C6.82755672,3.7235815 7.50319825,4.67430401 7.69495323,5.20017766 L9.09462513,9.84906597 C9.37855881,10.859822 8.10305724,11.2747232 7.79492949,10.2989564 L6.54522269,5.99998674 L6.14531623,5.99998674 L8.34480105,13.5481794 L6.29528098,13.5481794 L6.29528098,19.1968353 C6.31127749,20.2230904 4.78963421,20.2180908 4.79563246,19.1968353 L4.79563246,13.5481794 L4.34573787,13.5481794 L4.34573787,13.5481794 Z" id="Shape"></path>
+            </g>
+            <g id="man" transform="translate(50.000000, 61.000000)" fill="#F78F1E" sketch:type="MSShapeGroup">
+                <ellipse id="Oval" cx="3.81455166" cy="1.63172574" rx="1.63030508" ry="1.63030508"></ellipse>
+                <path d="M2.08391909,3.71349807 C0.830337303,3.71349807 0.027219965,4.79887671 0.027219965,5.87051243 L0.027219965,10.8868252 C0.0156823117,11.8670116 1.42707986,11.8670116 1.4317958,10.8868252 L1.4317958,6.27181716 L1.78293835,6.27181716 L1.78293835,19.0132585 C1.76116743,20.343586 3.64098949,20.305462 3.63898319,19.0132585 L3.63898319,11.5891089 L3.93996392,11.5891089 L3.93996392,19.0132585 C3.96454396,20.305462 5.8541972,20.343586 5.84617058,19.0132585 L5.84617058,6.27181716 L6.19731454,6.27181716 L6.19731454,10.8868252 C6.18076112,11.8745366 7.58483398,11.8745366 7.60188757,10.8868252 L7.60188757,5.87051243 C7.58182452,4.79887671 6.74860981,3.73271068 5.49502802,3.71349807 L2.08391909,3.71349807 L2.08391909,3.71349807 Z" id="Shape"></path>
+            </g>
+            <text id="Bathrooms" sketch:type="MSTextLayer" font-family="Apercu" font-size="18" font-weight="bold" fill="#F78F1E">
+                <tspan x="73" y="76">Bathrooms</tspan>
+            </text>
+            <text id="Exit" sketch:type="MSTextLayer" font-family="Apercu" font-size="18" font-weight="bold" fill="#F78F1E">
+                <tspan x="73" y="109">Exit</tspan>
+            </text>
+            <text id="Dining" sketch:type="MSTextLayer" font-family="Apercu" font-size="18" font-weight="bold" fill="#F78F1E">
+                <tspan x="73" y="145">Dining</tspan>
+            </text>
+            <text id="Helpdesk" sketch:type="MSTextLayer" font-family="Apercu" font-size="18" font-weight="bold" fill="#F78F1E">
+                <tspan x="73" y="180">Helpdesk</tspan>
+            </text>
+            <text id="MHacks" sketch:type="MSTextLayer" font-family="Apercu" font-size="60" font-weight="bold" sketch:alignment="middle" line-spacing="36" fill="#F78F1E">
+                <tspan x="0" y="57">MHacks</tspan>
+            </text>
+            <text id="REFACTOR" sketch:type="MSTextLayer" font-family="Apercu" font-size="30" font-weight="260" sketch:alignment="middle" line-spacing="36" fill="#F78F1E">
+                <tspan x="0.815" y="49">R E F A C T O R</tspan>
+            </text>
+        </g>
+        <path d="M661,523 C661,523 661,541.252554 661,559 C661,576.747446 662.757388,586.487821 666.694846,593.40775 C687.119492,629.303272 747,679.171503 747,679.171503 L747,1052" id="Line" stroke-opacity="0.75" stroke="#FF0000" stroke-width="4" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+        <text id="CONSTRUCTION" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="34" font-weight="526" sketch:alignment="middle" line-spacing="34" fill="#FF0000">
+            <tspan x="373.591" y="634.996216">CONSTRUCTION</tspan>
+        </text>
+        <path d="M26.9987655,588 L382.748333,588 C410.962572,588 430.000107,576.556679 430,548 C429.999986,544.318184 430,523 430,523" id="Line" stroke-opacity="0.75" stroke="#FF0000" stroke-width="4" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+    </g>
+</svg>
