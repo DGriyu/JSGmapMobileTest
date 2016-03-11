@@ -44,30 +44,27 @@
 
           Overlay = new google.maps.GroundOverlay('images/grand_map.png', imageBounds);
           Overlay.setMap(map);
+          
+          var allowedBounds = new google.maps.LatLngBounds(
+            new google.maps.LatLng(42.290601, -83.719478),
+            new google.maps.LatLng(42.293726, -83.712467)
+          );
+
+          var lastValidCenter = map.getCenter();
+
+          map.addListener('center_changed', function() {
+            if (allowedBounds.contains(map.getCenter())) {
+              // still within valid bounds, so save the last valid position
+              lastValidCenter = map.getCenter();
+              return; 
+            }
+            map.panTo(lastValidCenter);
+          });
         }
-
-        var allowedBounds = new google.maps.LatLngBounds(
-          new google.maps.LatLng(42.293544, -83.711725), 
-          new google.maps.LatLng(42.290469, -83.719300)
-        );
-
-        var lastValidCenter = map.getCenter();
-
-        google.maps.event.addListener(map, 'center_changed',
-         function() {
-          if (allowedBounds.contains(map.getCenter())) {
-            // still within valid bounds, so save the last valid position
-            lastValidCenter = map.getCenter();
-            return; 
-          }
-
-          // not valid anymore => return to last valid position
-         map.panTo(lastValidCenter);
-        });
 
       </script>
         <script async defer
-           src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAH1Lv6E9nEjrir5p8wCocKxkU7VVTxck4&callback=initMap">
+           src="https://maps.googleapis.com/maps/api/js?key=&callback=initMap">
         </script>
       </body>
   </html>
